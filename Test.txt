@@ -1,1 +1,4 @@
-*\\ That's my first test of creative code using the Processing 4.0, enjoy//*
+*\\ That's my first test of creative code using the Processing 4.0, enjoy //*
+
+*\\ When you open the .pde file, change the font in "fonte = loadFont ("CourierNewPS-BoldItalicMT-38.vlw");"
+and the image in "foto = loadImage ("isaa.png");" for design your poster* //*
